@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+My name is Sara Grace Biddle and I am a 23 year old data analyst living in Greenville, South Carolina. I graduated from Furman University in May of 2022 with a Bachelor's of Science in Applied Mathematics and Health Sciences. Since graduation, I have been working for Prisma Health Cancer Institute in Greenville. 
